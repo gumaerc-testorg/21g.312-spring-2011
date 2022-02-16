@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e2186a9d-f106-bc37-0512-35f0e5841b7b
 ---
@@ -14,7 +16,7 @@ Course Overview
 
 ### Childhood in French and Francophone Cultures
 
-Childhood is a source of fascination in most Western cultures. It is both a major inspiration for artistic creation and a political ideal, which aims at protecting future generations. Which role does it play in French society and in other francophone areas? Why is the French national anthem ("La Marseillaise") addressed to its "children"? This course will study the transformation of childhood since the 18th century and the development of sentimentality within the family. We will examine various representations of childhood in literature (e.g. Pagnol, Proust, Sarraute, Laye, Morgièvre), movies (e.g. Truffaut), and songs (e.g. Brel, Barbara). Course taught in French by [Bruno Perreau](#Bruno_Perreau).
+Childhood is a source of fascination in most Western cultures. It is both a major inspiration for artistic creation and a political ideal, which aims at protecting future generations. Which role does it play in French society and in other francophone areas? Why is the French national anthem ("La Marseillaise") addressed to its "children"? This course will study the transformation of childhood since the 18{{< sup "th" >}} century and the development of sentimentality within the family. We will examine various representations of childhood in literature (e.g. Pagnol, Proust, Sarraute, Laye, Morgièvre), movies (e.g. Truffaut), and songs (e.g. Brel, Barbara). Course taught in French by [Bruno Perreau](#Bruno_Perreau).
 
 Grading Policy
 --------------
@@ -108,7 +110,7 @@ KEY DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE: QU'EST-CE QUE L'ENFANCE?**
+**1{{< sup "E" >}} PARTIE: QU'EST-CE QUE L'ENFANCE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,10 +160,10 @@ L'inconvénient d'être né
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Quitter l'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _Le grand chemin_ by Jean-Loup Hubert
 {{< tdclose >}}
 
@@ -186,7 +188,7 @@ Quitter l'enfance II
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE: VIVRE L'ENFANCE**
+**2{{< sup "E" >}} PARTIE: VIVRE L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,10 +238,10 @@ L'enfant roi
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Souffrir d'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _Les quatre cent coups_ by François Truffaut
 {{< tdclose >}}
 
@@ -264,7 +266,7 @@ Souffrir d’enfance II
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE: LES ADULTES ET L'ENFANCE**
+**3{{< sup "E" >}} PARTIE: LES ADULTES ET L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,10 +292,10 @@ Research paper outline due
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 L'éducation II
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _Être et avoir_ by Nicolas Philibert
 {{< tdclose >}}
 
@@ -330,7 +332,7 @@ La disparition de l'enfant
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**4E PARTIE: LA FORCE DE L'ENFANCE**
+**4{{< sup "E" >}} PARTIE: LA FORCE DE L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,10 +346,10 @@ Le développement des conventions internationales sur le droit des enfants ainsi
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 L'enfant dans la guerre
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Research paper due
@@ -380,10 +382,10 @@ La vie devant soi
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Les rêves d'enfant
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _La cité des enfants perdus_ by Jean-Pierre Jeunet
 {{< tdclose >}}
 

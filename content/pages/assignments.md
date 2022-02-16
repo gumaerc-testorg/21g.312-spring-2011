@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 33245f29-5310-b76c-d003-15955a4be01c
 ---
@@ -36,7 +39,7 @@ SHORT-ANSWER QUESTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE: QU'EST-CE QUE L'ENFANCE?**
+**1{{< sup "E" >}} PARTIE: QU'EST-CE QUE L'ENFANCE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,10 +83,10 @@ Avez-vous choisi vos parents?
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Quitter l'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 None
 {{< tdclose >}}
 
@@ -108,7 +111,7 @@ Quand l'enfance s'arrête-t-elle?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE: VIVRE L'ENFANCE**
+**2{{< sup "E" >}} PARTIE: VIVRE L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,10 +155,10 @@ Les enfants sont-ils innocents?
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Souffrir d'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 None
 {{< tdclose >}}
 
@@ -180,7 +183,7 @@ Faut-il punir plus sévèrement les violences contre les enfants?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE: LES ADULTES ET L'ENFANCE**
+**3{{< sup "E" >}} PARTIE: LES ADULTES ET L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,10 +203,10 @@ Faut-il abaisser l'âge de la majorité?
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 L'éducation II
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 None
 {{< tdclose >}}
 
@@ -241,4 +244,4 @@ None
 
 {{< tableclose >}}
 
-There are no short answer questions for the 4th part of the course.
+There are no short answer questions for the 4{{< sup "th" >}} part of the course.
