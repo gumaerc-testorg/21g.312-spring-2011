@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c2e69ef-d236-48df-2e0d-78ed6341e1f0
 resourcetype: Document
 title: "Lorsque l\u2019enfant para\xEEt"
 uid: 2d8bb08a-8c57-99b0-2df0-2acc533bfb4e

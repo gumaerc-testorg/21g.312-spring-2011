@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c2e69ef-d236-48df-2e0d-78ed6341e1f0
 resourcetype: Document
 title: "\xC9mile ou l\u2019\xE9ducation"
 uid: 076defd5-806f-2fc2-7519-28e2451e6393
