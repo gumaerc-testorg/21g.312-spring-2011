@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the reading assignments for this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -43,7 +44,7 @@ Ariès, Philippe. _L’enfant et la vie familiale sous l’Ancien Régime_. Seui
 
 Ernaux, Annie. _La place (Folio Series, No 1722) (French Edition)_. Gallimard, 1986, pp. 64-7 and 92-5. ISBN: 9782070377220.
 
-Hugo, Victor. "Lorsque l'enfant paraît ." In _Les feuilles d'automne_. Ulan Press, 2011. ([PDF]({{< baseurl >}}/resources/mit21g_312s11_vhugopoem))
+Hugo, Victor. "Lorsque l'enfant paraît ." In _Les feuilles d'automne_. Ulan Press, 2011. ({{% resource_link 2d8bb08a-8c57-99b0-2df0-2acc533bfb4e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -233,7 +234,7 @@ L'éducation I
 {{< tdopen >}}
 
 
-Rousseau, Jean-Jaques. _Émile ou l'éducation, Tome Troisieme_. Jean Neaulme, 1762. ([PDF]({{< baseurl >}}/resources/mit21g_312s11_rousseau))
+Rousseau, Jean-Jaques. _Émile ou l'éducation, Tome Troisieme_. Jean Neaulme, 1762. ({{% resource_link 076defd5-806f-2fc2-7519-28e2451e6393 "PDF" %}})
 
 Schérer, René. _Vers une enfance majeure: Textes sur l'éducation_. Preface by Charles Fourier. La Fabrique éditions, 2006. ISBN: 9782913372498.
 

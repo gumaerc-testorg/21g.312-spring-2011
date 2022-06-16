@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading policy, an overview of the topics covered in each session and in
+  each of the four parts of this course, as well as key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -75,7 +78,7 @@ Class participation
 
 {{< tableclose >}}
 
-Please see the [Assignments]({{< baseurl >}}/pages/assignments) page for more details about the oral presentation, weekly short-answer papers, and research paper.
+Please see the {{% resource_link 33245f29-5310-b76c-d003-15955a4be01c "Assignments" %}} page for more details about the oral presentation, weekly short-answer papers, and research paper.
 
 ### Class Participation
 

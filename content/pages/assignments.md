@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  an oral presentation, individual research paper, and weekly short-answer papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
