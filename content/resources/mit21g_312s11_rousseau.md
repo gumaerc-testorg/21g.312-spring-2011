@@ -5,6 +5,7 @@ file: /courses/21g-312-basic-themes-in-french-literature-and-culture-spring-2011
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "\xC9mile ou l\u2019\xE9ducation"
 uid: 076defd5-806f-2fc2-7519-28e2451e6393
 ---
 Excerpt from Émile, ou De l’éducation, by Jean-Jacques Rousseau.
-
