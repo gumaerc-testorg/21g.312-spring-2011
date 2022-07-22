@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the reading assignments for this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5c2e69ef-d236-48df-2e0d-78ed6341e1f0
 ---
@@ -22,7 +26,7 @@ READING ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE: QU'EST-CE QUE L'ENFANCE?**
+**1{{< sup "E" >}} PARTIE: QU'EST-CE QUE L'ENFANCE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Ariès, Philippe. _L’enfant et la vie familiale sous l’Ancien Régime_. Seui
 
 Ernaux, Annie. _La place (Folio Series, No 1722) (French Edition)_. Gallimard, 1986, pp. 64-7 and 92-5. ISBN: 9782070377220.
 
-Hugo, Victor. "Lorsque l'enfant paraît ." In _Les feuilles d'automne_. Ulan Press, 2011. ([PDF]({{< baseurl >}}/resources/mit21g_312s11_vhugopoem))
+Hugo, Victor. "Lorsque l'enfant paraît ." In _Les feuilles d'automne_. Ulan Press, 2011. ({{% resource_link 2d8bb08a-8c57-99b0-2df0-2acc533bfb4e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -86,10 +90,10 @@ Iacub, Marcela. _Penser les droits de la naissance_. Presses Universitaires de F
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Quitter l'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hubert, Jean-Loup. _Le grand chemin_. Film, 1987.
 {{< tdclose >}}
 
@@ -120,7 +124,7 @@ Duras, Marguerite. _La pluie d'été_. P. O. L., 1990, pp. 98-109. ISBN: 9782867
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE: VIVRE L'ENFANCE**
+**2{{< sup "E" >}} PARTIE: VIVRE L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,10 +186,10 @@ Guibert, Hervé. _Mes Parents_. Gallimard, 1986, pp. 32-5, 120-1, and 148-9. ISB
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Souffrir d'enfance I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Truffaut, François. _Les quatre cent coups_. Film, 1959.
 {{< tdclose >}}
 
@@ -216,7 +220,7 @@ Morgiève, Richard. _Legarcon: Roman (French Edition)_. Calmann-Lévy, 1997, pp.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE: LES ADULTES ET L'ENFANCE**
+**3{{< sup "E" >}} PARTIE: LES ADULTES ET L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +234,7 @@ L'éducation I
 {{< tdopen >}}
 
 
-Rousseau, Jean-Jaques. _Émile ou l'éducation, Tome Troisieme_. Jean Neaulme, 1762. ([PDF]({{< baseurl >}}/resources/mit21g_312s11_rousseau))
+Rousseau, Jean-Jaques. _Émile ou l'éducation, Tome Troisieme_. Jean Neaulme, 1762. ({{% resource_link 076defd5-806f-2fc2-7519-28e2451e6393 "PDF" %}})
 
 Schérer, René. _Vers une enfance majeure: Textes sur l'éducation_. Preface by Charles Fourier. La Fabrique éditions, 2006. ISBN: 9782913372498.
 
@@ -242,10 +246,10 @@ Schérer, René. _Vers une enfance majeure: Textes sur l'éducation_. Preface by
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 L'éducation II
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Philibert, Nicolas. _Être et avoir_. Film, 2002.
 {{< tdclose >}}
 
@@ -296,7 +300,7 @@ Forest, Phillippe. _L'enfant éternal: Roman (L'infini)_. Gallimard, 1997. ISBN:
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**4E PARTIE: LA FORCE DE L'ENFANCE**
+**4{{< sup "E" >}} PARTIE: LA FORCE DE L'ENFANCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,10 +308,10 @@ Forest, Phillippe. _L'enfant éternal: Roman (L'infini)_. Gallimard, 1997. ISBN:
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 L'enfant dans la guerre
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lorenzi, Jean-Louis. _La colline aux mille enfants_. Film, 1994.
 {{< tdclose >}}
 
@@ -340,10 +344,10 @@ Gary, Romain. _La vie devant soi (Folio)_. Gallimard, 1982, pp. 244-8. ISBN: 978
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Les rêves d'enfant
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Jeunet, Jean-Pierre. _La cité des enfants perdus_. Film, 1995.
 {{< tdclose >}}
 
