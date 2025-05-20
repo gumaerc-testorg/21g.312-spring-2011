@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A poem written by Victor Hugo, and published in 1831.
-file: /ol-ocw-studio-app/courses/21g-312-basic-themes-in-french-literature-and-culture-spring-2011/2d8bb08a8c5799b02df02acc533bfb4e_MIT21G_312S11_vhugopoem.pdf
+file: /courses/21g-312-basic-themes-in-french-literature-and-culture-spring-2011/2d8bb08a8c5799b02df02acc533bfb4e_MIT21G_312S11_vhugopoem.pdf
 file_size: 135705
 file_type: application/pdf
 learning_resource_types:
