@@ -138,7 +138,7 @@ Les amis d'enfance
 {{< tdopen >}}
 
 
-France, Anatole. Chapter 1 in _Le livre de mon ami_. Nabu Press, 2010. ISBN: 9781145870765. [Listen online](https://web.archive.org/web/20110719112133/http://www.litteratureaudio.net/Anatole_France_-_Le_livre_de_mon_ami_Chap01.mp3).
+France, Anatole. Chapter 1 in _Le livre de mon ami_. Nabu Press, 2010. ISBN: 9781145870765. {{% resource_link "2ede6593-4cae-41e8-b61d-72a90d2e777e" "Listen online" %}}.
 
 Pagnol, Marcel. _La gloire de mon père (French Edition)_. European Masterpieces, 2007, pp. 46-7. ISBN: 9781589770461.
 
@@ -212,7 +212,7 @@ Souffrir d'enfance II
 
 Morgiève, Richard. _Legarcon: Roman (French Edition)_. Calmann-Lévy, 1997, pp. 26-7. ISBN: 9782702127490.
 
-"Les Deschiens." on YouTube : [Part 1](http://www.youtube.com/watch?v=Y4LiZxS1aA0), [Part 2](http://www.youtube.com/watch?v=jDfkwMX3vww&feature=related), [Part 3](http://www.youtube.com/watch?v=BpjEHrA54M0&feature=related).
+"Les Deschiens." on YouTube : {{% resource_link "43c9cc21-a226-4c02-a7be-c2e2a17d7af1" "Part 1" %}}, {{% resource_link "607e1906-ff2e-4571-89df-1877e5ef8161" "Part 2" %}}, {{% resource_link "e2882b72-9589-43f1-8d46-b34324e07a3a" "Part 3" %}}.
 
 
 {{< tdclose >}}
@@ -272,9 +272,9 @@ L'enfance perdue, l'enfance retrouvée
 
 Sarraute, Nathalie. _Enfance_. Gallimard, 1983, pp. 218-9, and 272-7. ISBN: 9782070376841.
 
-Brel, Jaques. "[Mon enfance](http://www.youtube.com/watch?v=tqtqUABH4ig)." Song, 1966.
+Brel, Jaques. "{{% resource_link "31df5479-177f-4d19-9cdf-caeaf33a61c8" "Mon enfance" %}}." Song, 1966.
 
-Barbara. "[Mon enfance](http://www.youtube.com/watch?v=L-ToyNEYFmY&playnext=1&list=PL9CA037FDF8EF55D8)." Song, 1987.
+Barbara. "{{% resource_link "0cd59d9c-c134-475b-a1fe-6297b20f056b" "Mon enfance" %}}." Song, 1987.
 
 
 {{< tdclose >}}
