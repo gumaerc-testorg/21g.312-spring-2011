@@ -414,4 +414,4 @@ Bilan du semestre
 
 {{< tableclose >}}
 
-{{< anchor "Bruno_Perreau" >}}{{< /anchor >}}Bruno Perreau is an Assistant Professor of French Studies at MIT (PhD in Political Science, Sorbonne University, 2006) and a Research Fellow at Cambridge University. He is a former member of the Institute for Advanced Study (Princeton). Prior to joining MIT, Perreau taught at Paris XII University and Sciences Po. Please {{% resource_link "a5b76754-3053-4bef-a3e4-ae3d93fdc8fa" "visit his website" %}} for further biographical information and his publication list.
+{{< anchor "Bruno_Perreau" >}}{{< /anchor >}}Bruno Perreau is an Assistant Professor of French Studies at MIT (PhD in Political Science, Sorbonne University, 2006) and a Research Fellow at Cambridge University. He is a former member of the Institute for Advanced Study (Princeton). Prior to joining MIT, Perreau taught at Paris XII University and Sciences Po. Please [visit his website](http://www.brunoperreau.fr) for further biographical information and his publication list.
